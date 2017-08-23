@@ -1,0 +1,34 @@
+{
+	"frame0":{
+		"img": "1.jpg",
+		"title":"水墨画1"
+	},
+	"frame1":{
+		"img": "2.jpg",
+		"title":"水墨画2"
+	},
+	"frame2":{
+		"img": "3.jpg",
+		"title":"水墨画3"
+	},
+	"frame3":{
+		"img": "4.jpg",
+		"title":"水墨画4"
+	},
+	"frame4":{
+		"img": "5.jpg",
+		"title":"水墨画5"
+	},
+	"frame5":{
+		"img": "6.jpg",
+		"title":"水墨画6"
+	},
+	"frame6":{
+		"img": "7.jpg",
+		"title":"水墨画7"
+	},
+	"frame7":{
+		"img": "8.jpg",
+		"title":"水墨画8"
+	}
+}

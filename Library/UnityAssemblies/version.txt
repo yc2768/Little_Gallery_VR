@@ -1,5 +1,5 @@
 5.4.0f3:3.1.0.0
-StandaloneWindows
+Android
 F:/AAwin10/Unity3D/5.4.0/Unity/Editor/Data/Managed/UnityEngine.dll
 F:/AAwin10/Unity3D/5.4.0/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
 F:/AAwin10/Unity3D/5.4.0/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
